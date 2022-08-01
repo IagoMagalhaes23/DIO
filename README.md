@@ -3,3 +3,10 @@
 
 ## Bootcamps
 - Linux Experience
+- Machine Learning
+
+## Conteúdos (Linux Experience)
+- Terminal
+- Servidores
+- DevOps
+- Github
