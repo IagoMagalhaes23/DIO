@@ -3,10 +3,14 @@
 
 ## Bootcamps
 - Linux Experience
-- Machine Learning
+- Database Experience
 
 ## Conteúdos (Linux Experience)
 - Terminal
 - Servidores
 - DevOps
 - Github
+
+## Conteúdos (Database Experience)
+- Sql
+- NoSql
